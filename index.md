@@ -17,32 +17,12 @@ sections:
   content: |-
     fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
 
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jf
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfos
+    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jf fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfos
 
     fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoefj soi jfsoeijoe
 
-    soeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief s
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-
-    oeijfosifj soi jfsoeijoe
-
-    fisdj fsifj oiesjr
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-
-     fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-  image: "/images/9.jpg"
+    soeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
+  image: "/images/13.jpg"
   actions:
   - label: Take Action
     url: https://learn.cloudcannon.com/templates/urban/
