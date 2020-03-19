@@ -54,6 +54,8 @@ sections:
   subtitle: An optional subtitle of the section
   serviceslist:
   - title: Service Title
+    content: Random text about service.
+  - title: Service Title
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
       cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
       tortor at, pulvinar orci.
