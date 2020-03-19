@@ -59,11 +59,6 @@ sections:
   match: "**/*"
   templates:
   - project
-- type: document
-  path: _data/menus.yml
-  label: Site Menus
-  templates:
-  - site_menus
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
