@@ -5,7 +5,7 @@ permalink: "/:title/"
 color_scheme: light
 accent_color: blue
 header:
-  title: Exto
+  title: Julia
   has_nav: true
 footer:
   content: "&copy; Stackbit-Exto. All rights reserved."
