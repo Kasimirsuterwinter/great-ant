@@ -11,8 +11,8 @@ sections:
 - template: contentblock
   component: content_block.html
   type: contentblock
-  title: Test this out
-  section_id: ''
+  title: About
+  section_id: about
   subtitle: And this is the subtitle of this section
   content: |-
     fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
@@ -23,9 +23,7 @@ sections:
 
     soeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
   image: "/images/13.jpg"
-  actions:
-  - label: Take Action
-    url: https://learn.cloudcannon.com/templates/urban/
+  actions: []
 - type: servicesblock
   template: servicesblock
   title: What We Do
