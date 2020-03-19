@@ -12,7 +12,7 @@ sections:
   component: content_block.html
   type: contentblock
   title: Test this out
-  section_id: hero
+  section_id: ''
   subtitle: And this is the subtitle of this section
   content: |-
     fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
