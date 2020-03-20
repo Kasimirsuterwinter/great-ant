@@ -1,26 +1,26 @@
-<form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form"
+<form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form" action="/contact-submitted/"
   class="contact-form">
   <p class="screen-reader-text">
     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
   </p>
   <p class="form-row">
     <label class="form-label" for="contact-user-name">имя</label>
-    <input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Введите ваше имя">
+    <input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Введите ваше имя" required>
     <span class="input-focus" aria-hidden="true"></span>
   </p>
   <p class="form-row">
     <label class="form-label" for="contact-user-email">Эл. адрес</label>
-    <input type="email" name="email" id="contact-user-email" class="form-input" placeholder="Введите ваш адрес электронной почты">
+    <input type="email" name="email" id="contact-user-email" class="form-input" placeholder="Введите ваш адрес электронной почты" required>
     <span class="input-focus" aria-hidden="true"></span>
   </p>
   <p class="form-row">
     <label class="form-label" for="contact-user-email">Предмет</label>
-    <input type="text" name="subject" id="contact-user-email" class="form-input" placeholder="Введите тему">
+    <input type="text" name="subject" id="contact-user-email" class="form-input" placeholder="Введите тему" required>
     <span class="input-focus" aria-hidden="true"></span>
   </p>
   <p class="form-row">
     <label class="form-label" for="contact-message">Сообщение</label>
-    <textarea name="message" id="contact-message" class="form-textarea" rows="5" placeholder="Введите ваше сообщение"></textarea>
+    <textarea name="message" id="contact-message" class="form-textarea" rows="5" placeholder="Введите ваше сообщение" required></textarea>
     <span class="input-focus" aria-hidden="true"></span>
   </p>
   <input type="hidden" name="form-name" value="contactForm" />

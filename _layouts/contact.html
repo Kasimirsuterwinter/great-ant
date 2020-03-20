@@ -23,9 +23,13 @@ layout: body
       {% endif %}
       <div class="post-content inner-small">
         {{ content }}
-        {% include contact_form.html %}
+        {% if page.title == "Contact Submitted" %}
+          {% include contact_form_submitted.html %}
+        {% endif %}
+        {% if page.title == "Contact" %}
+          {% include contact_form.html %}
+        {% endif %}
       </div><!-- .post-content -->
     </article><!-- .post -->
-
   </div><!-- .inner-->
 </div><!-- .outer -->
