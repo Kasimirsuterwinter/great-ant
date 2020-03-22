@@ -29,6 +29,10 @@ sections:
   templates:
   - home
 - type: document
+  path: about.md
+  label: About
+  match: "**/*"
+- type: document
   path: blog/index.md
   label: Blog
   templates:
@@ -38,14 +42,6 @@ sections:
   label: Contact
   templates:
   - contact
-- type: directory
-  path: ''
-  label: Page
-  create: all
-  match: "**/*.md"
-  exclude: "{_posts/**,README.md,LICENSE.md,index.md,blog/index.md,portfolio/index.md,contact.md}"
-  templates:
-  - page
 - type: heading
   label: Blog
 - type: jekyll-posts
