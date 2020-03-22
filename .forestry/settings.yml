@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e737eab0b968f0012bfbb32/webhook/forestry
 sections:
+- type: heading
+  label: Theme
 - type: document
   path: _config.yml
   label: Global Site Config
@@ -19,6 +21,8 @@ sections:
   label: Author
   templates:
   - author
+- type: heading
+  label: Pages
 - type: document
   path: index.md
   label: Home
@@ -29,11 +33,6 @@ sections:
   label: Blog
   templates:
   - blog
-- type: document
-  path: portfolio/index.md
-  label: Portfolio
-  templates:
-  - portfolio
 - type: document
   path: contact.md
   label: Contact
@@ -47,14 +46,16 @@ sections:
   exclude: "{_posts/**,README.md,LICENSE.md,index.md,blog/index.md,portfolio/index.md,contact.md}"
   templates:
   - page
+- type: heading
+  label: Blog
 - type: jekyll-posts
-  label: Post
+  label: Posts
   create: all
   templates:
   - post
 - type: directory
   path: projects
-  label: Project
+  label: Projects
   create: all
   match: "**/*"
   templates:
