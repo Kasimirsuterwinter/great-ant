@@ -14,6 +14,13 @@ fields:
   name: hero_img_background
   label: Background Image
   description: The image shown in the hero sections background.
+- name: hero_title_color
+  type: color
+  label: Hero Title Color
+  config:
+    required: false
+    color_format: Hex
+  description: The color of the large text over the hero image.
 - type: text
   name: component
   label: Component
