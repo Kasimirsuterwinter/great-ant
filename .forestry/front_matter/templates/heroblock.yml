@@ -10,6 +10,10 @@ fields:
 - type: text
   name: section_id
   label: Element ID
+- type: file
+  name: hero_img_background
+  label: Background Image
+  description: The image shown in the hero sections background.
 - type: text
   name: component
   label: Component
