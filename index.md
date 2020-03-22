@@ -7,8 +7,8 @@ sections:
   section_id: hero
   component: hero_block.html
   content: ''
-  hero_img_background: "/images/alvaro-serrano-hjwKMkehBco-unsplash.jpg"
-  hero_title_color: "#000000"
+  hero_img_background: "/images/patrick-fore-H5Lf0nGyetk-unsplash.jpg"
+  hero_title_color: "#FFFFFF"
 - template: contentblock
   component: content_block.html
   type: contentblock
