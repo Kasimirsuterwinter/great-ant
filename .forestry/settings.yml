@@ -31,7 +31,6 @@ sections:
 - type: document
   path: about.md
   label: About
-  match: "**/*"
 - type: document
   path: blog/index.md
   label: Blog
