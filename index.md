@@ -8,6 +8,7 @@ sections:
   component: hero_block.html
   content: ''
   hero_img_background: "/images/hero_cover_img.jpg"
+  hero_title_color: "#000000"
 - template: contentblock
   component: content_block.html
   type: contentblock
