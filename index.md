@@ -7,6 +7,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: ''
+  hero_img_background: "/images/hero_cover_img.jpg"
 - template: contentblock
   component: content_block.html
   type: contentblock
