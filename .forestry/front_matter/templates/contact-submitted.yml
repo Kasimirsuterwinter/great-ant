@@ -8,9 +8,13 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: text
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Text
   description: The text shown when the form is submitted.
-  config:
-    required: true
