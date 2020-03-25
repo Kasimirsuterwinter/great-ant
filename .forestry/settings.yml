@@ -24,6 +24,10 @@ sections:
   label: Contact
   templates:
   - contact
+- type: document
+  path: contact-submitted.md
+  label: Contact Submitted
+  match: "**/*"
 - type: heading
   label: Blog
 - type: jekyll-posts
