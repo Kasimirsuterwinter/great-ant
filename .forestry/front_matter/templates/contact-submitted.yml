@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: Text
   description: The text shown when the form is submitted.
+pages:
+- contact-submitted.md
