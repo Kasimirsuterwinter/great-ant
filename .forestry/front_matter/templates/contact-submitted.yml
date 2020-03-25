@@ -10,4 +10,7 @@ fields:
   label: layout
 - type: text
   name: text
-  label: text
+  label: Text
+  description: The text shown when the form is submitted.
+  config:
+    required: true
