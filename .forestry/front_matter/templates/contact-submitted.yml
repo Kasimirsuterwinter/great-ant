@@ -1,0 +1,13 @@
+---
+label: Contact Submitted
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: text
+  label: text
