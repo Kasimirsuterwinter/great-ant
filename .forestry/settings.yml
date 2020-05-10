@@ -27,6 +27,12 @@ sections:
 - type: document
   path: contact-submitted.md
   label: Sent form
+- type: document
+  path: _includes/contact_form.html
+  label: Contact Form
+  match: "**/*"
+- type: heading
+  label: Blog
 - type: jekyll-posts
   label: Posts
   create: all
