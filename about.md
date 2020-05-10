@@ -5,7 +5,6 @@ img_path: "/images/hero_cover_img.jpg"
 layout: page
 menu:
   main:
-    title: About
     weight: 2
 
 ---
