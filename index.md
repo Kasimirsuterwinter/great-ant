@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Главная
 sections:
 - type: heroblock
   template: heroblock
