@@ -1,5 +1,5 @@
 ---
-title: Understanding Street Photography
+title: Как составить и подать иск?
 date: 2019-03-10
 thumb_img_path: "/images/j-zamora-GWOTvo3qq7U-unsplash.jpg"
 content_img_path: "/images/j-zamora-GWOTvo3qq7U-unsplash.jpg"
