@@ -63,10 +63,10 @@ sections:
       vel posuere justo laoreet.
 - type: postsblock
   template: postsblock
-  title: Latest from the Blog
+  title: Публикации
   section_id: latest-posts
   component: posts_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: Из последнего
   num_posts_displayed: 2
   actions:
   - label: View Blog
