@@ -6,8 +6,6 @@ webhook_url: https://api.stackbit.com/project/5e737eab0b968f0012bfbb32/webhook/f
 sections:
 - type: heading
   label: Pages
-- type: heading
-  label: Pages
 - type: document
   path: index.md
   label: Home
