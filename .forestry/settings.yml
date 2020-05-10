@@ -27,9 +27,6 @@ sections:
 - type: document
   path: contact-submitted.md
   label: Sent form
-- type: document
-  path: _includes/contact_form.html
-  label: Contact Form
 - type: heading
   label: Blog
 - type: jekyll-posts
@@ -61,6 +58,9 @@ sections:
   label: Author
   templates:
   - author
+- type: document
+  path: _includes/contact_form.html
+  label: Contact Form Config
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
