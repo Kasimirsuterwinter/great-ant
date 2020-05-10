@@ -12,17 +12,11 @@ sections:
 - template: contentblock
   component: content_block.html
   type: contentblock
-  title: About
+  title: Здравствуйте
   section_id: about
-  subtitle: And this is the subtitle of this section
-  content: |-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jf fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfos
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoefj soi jfsoeijoe
-
-    soeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
+  subtitle: Выбор и знакомство с услугами
+  content: Предоставляю услуги по юридическим вопросам в сферах Уголовного и Гражданского
+    права, Семейного права...
   image: "/images/13.jpg"
   actions: []
 - type: servicesblock
