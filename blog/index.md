@@ -1,5 +1,5 @@
 ---
-title: Блог
+title: Публикации
 layout: blog
 menu:
   main:
