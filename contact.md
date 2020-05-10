@@ -1,10 +1,11 @@
 ---
-title: Contact
+title: Контакты
 layout: contact
+subtitle: ''
+img_path: ''
 menu:
   main:
     weight: 4
-    title: Контакты
 
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+Здравствуйте! Если вы заитересованы в моих услугах, пожалуйста заполните форму контакта или отправьте мне имейл на адрес [example@example.com](mailto:example@example.com).
