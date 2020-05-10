@@ -1,7 +1,7 @@
 ---
 title: Обо мне
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+subtitle: 'Адвокат, третейский судья '
+img_path: "/images/hero_cover_img.jpg"
 layout: page
 menu:
   main:
@@ -9,10 +9,20 @@ menu:
     weight: 2
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+## Мубаракшина Юлдуз Мансуровна
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Пятнадцать лет профессиональной практики
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Экономические и арбитражные споры / Уголовно-правовая защита / Семейное право
 
-*Thank You for reading!*
+Правовые услуги.. 
+
+Профессиональной специализацией..
+
+В мою специализацию входят правовые услуги..
+
+Услуги адвоката в области правового..
+
+Практика адвоката строится на..
+
+Гарантом успешной практики.. 
