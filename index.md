@@ -45,7 +45,7 @@ sections:
   - title: Гражданско-правововые споры
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: Service title
+  - title: Экономические и арбитражные споры
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
       efficitur urna viverra et.
