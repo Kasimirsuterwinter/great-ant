@@ -77,7 +77,7 @@ sections:
     url: blog/index.html
 - type: contactblock
   template: contactblock
-  title: Contact Us
+  title: Контакты
   section_id: contact
   component: contact_block.html
   subtitle: An optional subtitle of the section
