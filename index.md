@@ -69,7 +69,7 @@ sections:
   subtitle: Из последнего
   num_posts_displayed: 2
   actions:
-  - label: View Blog
+  - label: Читать далее
     url: blog/index.html
 - type: contactblock
   template: contactblock
