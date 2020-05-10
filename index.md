@@ -30,7 +30,7 @@ sections:
   title: Услуги
   section_id: services
   component: services_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: Категории услуг
   serviceslist:
   - title: Правовое сопровождение
     content: Random text about service.
