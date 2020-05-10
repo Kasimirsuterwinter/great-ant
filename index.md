@@ -27,12 +27,12 @@ sections:
   actions: []
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: Услуги
   section_id: services
   component: services_block.html
   subtitle: An optional subtitle of the section
   serviceslist:
-  - title: Service Title
+  - title: Правовое сопровождение
     content: Random text about service.
   - title: Service Title
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
