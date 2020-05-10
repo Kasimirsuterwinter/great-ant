@@ -1,7 +1,7 @@
 ---
-title: Contact Submitted
+title: Запрос отправлен
 layout: contact
-text: Thank you for contacting us. We will respond to you shortly.
+text: 'Спасибо за ваш запрос.  Ждите ответа в ближайшее время. '
 
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+Здравствуйте! Если вы заитересованы в моих услугах, пожалуйста заполните форму контакта или отправьте мне имейл на адрес [example@example.com](mailto:example@example.com).
