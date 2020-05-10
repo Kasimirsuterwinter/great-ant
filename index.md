@@ -76,7 +76,7 @@ sections:
   title: Контакты
   section_id: contact
   component: contact_block.html
-  subtitle: Если вы заинтересованы в сотрудничестве оставьте свои контакты
+  subtitle: Если вы заинтересованы в сотрудничестве, пожалуйста заполните форму контакта
 layout: home
 menu:
   main:
