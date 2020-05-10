@@ -5,38 +5,38 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e737eab0b968f0012bfbb32/webhook/forestry
 sections:
 - type: heading
-  label: Страницы
+  label: Pages
+- type: heading
+  label: Pages
 - type: document
   path: index.md
-  label: Главная
+  label: Home
   templates:
   - home
 - type: document
   path: about.md
-  label: Обо мне
+  label: About
 - type: document
   path: blog/index.md
-  label: Блог
+  label: Blog
   templates:
   - blog
 - type: document
   path: contact.md
-  label: Контакты
+  label: Contacts
   templates:
   - contact
 - type: document
   path: contact-submitted.md
-  label: Запрос отправлен
-- type: heading
-  label: Блог
+  label: Sent form
 - type: jekyll-posts
-  label: Посты
+  label: Posts
   create: all
   templates:
   - post
 - type: directory
   path: projects
-  label: Проекты
+  label: Projects
   create: all
   match: "**/*"
   templates:
