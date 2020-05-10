@@ -49,6 +49,8 @@ sections:
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
       efficitur urna viverra et.
+  - title: Иная правовая помощь
+    content: ''
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
