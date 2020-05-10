@@ -12,43 +12,39 @@ sections:
 - template: contentblock
   component: content_block.html
   type: contentblock
-  title: About
+  title: Здравствуйте
   section_id: about
-  subtitle: And this is the subtitle of this section
-  content: |-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jf fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfos
-
-    fisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoefj soi jfsoeijoe
-
-    soeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoefisdj fsifj oiesjr fwois jefidh sefsoifjsifo jsoifj soifjseoijfsoeif josijf soie fsoiejfosiejfsoi fsoief soeijfosifj soi jfsoeijoe
+  subtitle: Выбор и знакомство с услугами
+  content: Предоставляю услуги по юридическим вопросам в сферах Уголовного и Гражданского
+    права, Семейного права...
   image: "/images/13.jpg"
   actions: []
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: Услуги
   section_id: services
   component: services_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: Категории услуг
   serviceslist:
-  - title: Service Title
+  - title: Правовое сопровождение
     content: Random text about service.
-  - title: Service Title
+  - title: Уголовно-правовая защита
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
       cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
       tortor at, pulvinar orci.
-  - title: Service Title
+  - title: Вопросы семейного права
     content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
       ut tellus. Vivamus rhoncus mattis varius. '
-  - title: Service title
+  - title: Гражданско-правововые споры
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: Service title
+  - title: Экономические и арбитражные споры
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
       efficitur urna viverra et.
+  - title: Иная правовая помощь
+    content: ''
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
@@ -67,17 +63,17 @@ sections:
       vel posuere justo laoreet.
 - type: postsblock
   template: postsblock
-  title: Latest from the Blog
+  title: Публикации
   section_id: latest-posts
   component: posts_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: Из последнего
   num_posts_displayed: 2
   actions:
   - label: View Blog
     url: blog/index.html
 - type: contactblock
   template: contactblock
-  title: Contact Us
+  title: Контакты
   section_id: contact
   component: contact_block.html
   subtitle: An optional subtitle of the section
