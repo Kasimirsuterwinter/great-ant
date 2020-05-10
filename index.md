@@ -47,10 +47,10 @@ sections:
     content: ''
 - type: testimonialsblock
   template: testimonialsblock
-  title: Testimonials
+  title: Отзывы
   section_id: testimonials
   component: testimonials_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: Результаты успешной работы
   testimonialslist:
   - author: John Doe
     avatar: images/john_doe.jpg
