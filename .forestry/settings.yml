@@ -30,7 +30,6 @@ sections:
 - type: document
   path: _includes/contact_form.html
   label: Contact Form
-  match: "**/*"
 - type: heading
   label: Blog
 - type: jekyll-posts
